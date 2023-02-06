@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css'
 
 const About = () => {
-  
+
 	return (
 		<div className='aboutConatiner'>
 			<h1>About</h1>
@@ -21,7 +21,7 @@ const About = () => {
 			</ul>
 		</div>
 	);
-  
+
 }
 
 export default About

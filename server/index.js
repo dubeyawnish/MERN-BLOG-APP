@@ -3,6 +3,7 @@ import bodyParser from 'body-parser';
 import cors from 'cors';
 
 
+
 // APP CONFIGURATION 
 const app = express();
 app.use(bodyParser.json({ limit: '30mb', extended: true }));
