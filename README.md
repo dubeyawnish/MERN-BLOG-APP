@@ -17,7 +17,7 @@ A full-featured blog website where users can create an account, login, and write
 > - Express for creating API routes
 > - MongoDB for storing data
 > - Mongoose for interacting with MongoDB
-> - Axios for making HTTP requests
+> - Axios for making HTTP request
 > - Axios interceptor for handling token refresh
 > - JSON Web Tokens (JWT) for user authentication
 ## Getting Started
